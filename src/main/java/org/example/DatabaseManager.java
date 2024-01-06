@@ -1,6 +1,5 @@
 package org.example;
 
-import javax.sql.DataSource;
 import java.sql.*;
 
 public class DatabaseManager {
